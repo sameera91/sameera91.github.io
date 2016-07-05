@@ -5,7 +5,7 @@ title: My Ruby CLI Gem
 
 **Overview:**
 
-As a part of Flatiron School's [Learn](https://learn.co/){:target="_blank"}, I have just completed my first command line interface Ruby gem! This project involved gathering data from a website and then displaying the information back to the user. I thought about a number of different websites I could scrape for this project, but I picked the one that immediately stood out. I’m a huge fan of TED talks and wanted a quick way to see some of the most popular talks today. I even wanted a way to drill into a specific TED talk and learn more about it, so I’ve decided to scrape the [TED Talks](https://www.ted.com/talks){:target="_blank"} website! 
+As a part of Flatiron School's [Learn](https://learn.co/){:target="_blank"}, I have just completed my first [command line interface Ruby gem!](https://github.com/sameera91/ted-talks-cli-gem/){:target="_blank"} This project involved gathering data from a website and then displaying the information back to the user. I thought about a number of different websites I could scrape for this project, but I picked the one that immediately stood out. I’m a huge fan of TED talks and wanted a quick way to see some of the most popular talks today. I even wanted a way to drill into a specific TED talk and learn more about it, so I’ve decided to scrape the [TED Talks](https://www.ted.com/talks){:target="_blank"} website. 
 
 The basic requirements for the project were as follows: 
 

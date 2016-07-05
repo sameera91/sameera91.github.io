@@ -4,7 +4,7 @@ title: Sinatra Outdoor Activity Tracker
 ---
 **Overview**
 
-I have just finished creating another project using the Ruby language—an outdoor activity tracker using the Sinatra framework. 
+I have just finished creating another project using the Ruby language—an [outdoor activity tracker](https://github.com/sameera91/outdoor-activity-tracker){:target="_blank"} using the Sinatra framework. 
 With spring already here, and summer quickly approaching, I thought it would come in handy to have a way to log all of my outdoor 
 activities and details about their locations. After all, nature has a lot to offer! 
 

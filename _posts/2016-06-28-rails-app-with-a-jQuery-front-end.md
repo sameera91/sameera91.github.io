@@ -3,7 +3,7 @@ layout: post
 title: Rails App With a jQuery Front End
 ---
 
-A couple of blog posts ago, I covered the process of how I built my Ruby on Rails application, which allows the user to create and keep track of creative projects. It was a lot of fun building this project using Rails, and I have recently improved upon this by implementing the front-end using jQuery and Ajax.
+A couple of blog posts ago, I covered the process of how I built my [Ruby on Rails application](https://github.com/sameera91/my-creative-projects){:target="_blank"}, which allows the user to create and keep track of creative projects. It was a lot of fun building this project using Rails, and I have recently improved upon this by implementing the front-end using jQuery and Ajax.
 
 **The Process:**
 

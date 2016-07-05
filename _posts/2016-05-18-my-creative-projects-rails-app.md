@@ -2,7 +2,7 @@
 layout: post
 title: My Creative Projects Rails App
 ---
-My journey to learn to code has been an enjoyable one so far. From objected-oriented Ruby to Sinatra, I have learned a lot about programming. It’s amazing to see what a few lines of code can accomplish! I am currently exploring the Rails framework, and in the process, I have just completed my first Ruby on Rails Application.
+My journey to learn to code has been an enjoyable one so far. From objected-oriented Ruby to Sinatra, I have learned a lot about programming. It’s amazing to see what a few lines of code can accomplish! I am currently exploring the Rails framework, and in the process, I have just completed my first [Ruby on Rails Application](https://github.com/sameera91/my-creative-projects){:target="_blank"}.
 
 My Creative Projects is a rails app that allows users to keep track of any type of creative project, and has functionalities such as signing up for an account, logging in, creating a project, assigning categories, and adding comments to a project.
 
