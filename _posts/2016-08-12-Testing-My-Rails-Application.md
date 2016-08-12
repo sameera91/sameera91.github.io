@@ -81,5 +81,5 @@ end
 
 Just like in the user specs above, we use keywords such as fill_in and click_button to simulate the user filling out a form, and have_text to ensure that the project title is shown on the page. 
 
-Testing is a very important part of any application. Frameworks and libraries such as Rspec, Capybara, and Factory Girl allow us to write tests seamlessly. 
+Testing is an important part of any application. Frameworks and libraries such as Rspec, Capybara, and Factory Girl allow us to write tests seamlessly. 
 
