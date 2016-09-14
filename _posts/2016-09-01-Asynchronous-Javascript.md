@@ -9,20 +9,24 @@ In a Rails app, tasks are run sequentially. When we execute one task, we have to
 
 Here is an example of a Ruby code that is executed from top to bottom: 
 
+```
 puts "statement 1"
 first_function(2)
 puts "statement 3"
 second_function(3)
+```
 
 After executing this code, we will see "statement 1", anything placed inside of the first function, "statement 3", and then anything placed inside the second function. 
 
 Here is an example of JavaScript code that includes a callback:  
 
+```
 console.log('statement 1')
 setInterval(function(){
   alert('statement 2')
 }, 500)
 console.log('statement 3')
+```
 
 The difference between this snippet of code and the previous one is that this code includes a callback function. A callback is a function that contains another function as an argument. In this example, the first line is executed, and then the second line has to wait for 500 milliseconds before displaying the alert message. As we wait for the 500 milliseconds of the second statement to go by, the third statement is executed. "statement 3" is printed out before "statement 2." We can see here that the code is not executed from top to bottom, and we can perform other tasks while we wait for the callback function to run.
 
